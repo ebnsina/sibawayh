@@ -1,3 +1,4 @@
+import Header from "@/components/common/Header";
 import type { Metadata } from "next";
 import "./globals.css";
 
@@ -13,7 +14,8 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={`min-h-screen bg-slate-900 text-white pt-6`}>
+      <body className={`min-h-screen bg-slate-900 text-white`}>
+        <Header />
         {children}
       </body>
     </html>
