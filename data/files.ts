@@ -17,4 +17,10 @@ export const files = [
     url: "/files/5th+.pdf",
     view: "https://drive.google.com/file/d/1tA19XJEAAlrFeGY82ywUEal4X1pvTMbr/view",
   },
+  {
+    id: 4,
+    title: "Class 6",
+    url: "/files/6th+.pdf",
+    view: "https://drive.google.com/drive/folders/1o0hi5LRIwrMluUNkpxenZUBXwTnOvk6u",
+  },
 ];

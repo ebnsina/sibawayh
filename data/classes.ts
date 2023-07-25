@@ -14,4 +14,5 @@ export const pronunciationClasses = [
   { id: "0zW7G7969zc", name: "class 1 - new" },
   { id: "_0nfp2am0qw", name: "class 2 - new" },
   { id: "4vOGQBebtik", name: "class 3 & 5" },
+  { id: "hIDidWm287E", name: "class 6" },
 ];
